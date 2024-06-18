@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696006790878",
+    "project_id": "crudtutorial-41be9",
+    "storage_bucket": "crudtutorial-41be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696006790878:android:c54b6dc33ea3d8d8c7fc4f",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWoaWBIt5faoU34CrLiC4RU_7XbrXKTDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
